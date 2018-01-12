@@ -1,5 +1,4 @@
-# Python
+# Python 
 Python Crawler
 
-I am from Wuhan, China.
-My name is zzj.
+Code is my learn progress!
